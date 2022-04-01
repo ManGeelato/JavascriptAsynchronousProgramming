@@ -5,4 +5,8 @@ This project helps to understand asynchronous programming with callbacks, promis
 It's a mean ice-cream shop that shows operations per each time interval
 I have added comments so you can choose if you want to run fucntionality with callbacks, you comment out code for promises and async, if you wanna
 run promises functionality, you comment out callbacks and async, if you wanna run ansync and await, you comment out callbacks and promises
+Main reason we end up using promises is to avoid "callback hell" which is symbolized by sort of a arrow ">" lines of code...it's not really nice 
+hence then we use promises
 just open your vs terminal and run node.'name of your jscript file' then voila eat some ice-cream
+
+
